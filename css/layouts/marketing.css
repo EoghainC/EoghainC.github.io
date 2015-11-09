@@ -235,6 +235,13 @@ textarea {
 #portrait {
   border-radius: 100%;
 }
+
+.mail {
+  text-decoration: none;
+}
+.mail2 {
+  color: #8c8c8c;
+}
 /* special colors for social icons in the contact section */
     a .fa-facebook-square {
       color: #3b5998;
