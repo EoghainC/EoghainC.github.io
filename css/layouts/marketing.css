@@ -282,11 +282,11 @@ i {
 
 .pic-link {
   float: left;
-  width: 30%; /* TODO: augment with margin so it displays with gutter */
-  margin-left: 1.66%;
-  margin-right: 1.66%;
-  height: 25em;
-  background-color: blue;
+  width: 31%; /* TODO: augment with margin so it displays with gutter */
+  margin-left: 1%; /*original 1.66%*/
+  margin-right: 1%; /*original 1.66%*/
+  height: 15em;
+  background-color: gray;
   margin-bottom: 0.5em;
 }
 /* special colors for social icons in the contact section */
